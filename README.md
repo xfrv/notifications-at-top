@@ -5,7 +5,7 @@ Move windows 11 / 10 notifications to the top of the screen.
 
 
 # Usage
-- Download the latest release
+- Download the latest release from [here](https://github.com/SamarthCat/notifications-at-top/releases/latest)
 
 - Run ``` topleft.exe ``` for the top left
 
