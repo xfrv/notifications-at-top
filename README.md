@@ -1,3 +1,5 @@
+thanks to SamarthCat, i just modify the position so it just MyDockFinder friendly
+
 # Notifications At The Top Of The Screen
 Move windows 11 / 10 notifications to the top of the screen.
 
