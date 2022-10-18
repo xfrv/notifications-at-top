@@ -37,7 +37,7 @@ public class Program {
                 SetWindowPos(hwnd, 0, 0, -50, 0, 0, SWP_NOSIZE | SWP_NOZORDER | SWP_SHOWWINDOW);
             }
             else if (System.AppDomain.CurrentDomain.FriendlyName == "topright.exe"){
-                //Sets to top left (not as easy)
+                //Sets to top right (not as easy)
 
                 //Get the current position of the notification window
                 Rectangle NotifyRect = new Rectangle();
