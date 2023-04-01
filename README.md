@@ -1,7 +1,8 @@
 thanks to SamarthCat, i just modify the position so it just MyDockFinder friendly
 
 # Notifications At The Top Of The Screen
-Move windows 11 / 10 notifications to the top of the screen.
+Move windows 11 / 10 notifications to the top of the screen.  
+Update 1.1.0: Support For Microsoft Teams (Work, School, Personal) Notifications. Thanks [shankarnewton](https://github.com/shankarnewton) For The Suggestion.
 
 ![image](https://user-images.githubusercontent.com/79756986/162231083-41700e52-afbe-4009-b0a0-3348f435435e.png)
 
