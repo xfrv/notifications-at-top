@@ -1,0 +1,22 @@
+C:\Users\void\source\repos\move win10 notification\move win10 notification\bin\Release\net8.0-windows\data\running.ico
+C:\Users\void\source\repos\move win10 notification\move win10 notification\bin\Release\net8.0-windows\data\stopped.ico
+C:\Users\void\source\repos\move win10 notification\move win10 notification\bin\Release\net8.0-windows\move win10 notification.exe
+C:\Users\void\source\repos\move win10 notification\move win10 notification\bin\Release\net8.0-windows\move win10 notification.deps.json
+C:\Users\void\source\repos\move win10 notification\move win10 notification\bin\Release\net8.0-windows\move win10 notification.runtimeconfig.json
+C:\Users\void\source\repos\move win10 notification\move win10 notification\bin\Release\net8.0-windows\move win10 notification.dll
+C:\Users\void\source\repos\move win10 notification\move win10 notification\bin\Release\net8.0-windows\move win10 notification.pdb
+C:\Users\void\source\repos\move win10 notification\move win10 notification\bin\Release\net8.0-windows\INIFileParser.dll
+C:\Users\void\source\repos\move win10 notification\move win10 notification\bin\Release\net8.0-windows\Gma.System.MouseKeyHook.dll
+C:\Users\void\source\repos\move win10 notification\move win10 notification\obj\Release\net8.0-windows\move win10 notification.csproj.AssemblyReference.cache
+C:\Users\void\source\repos\move win10 notification\move win10 notification\obj\Release\net8.0-windows\move_win10_notification.Form1.resources
+C:\Users\void\source\repos\move win10 notification\move win10 notification\obj\Release\net8.0-windows\move win10 notification.csproj.GenerateResource.cache
+C:\Users\void\source\repos\move win10 notification\move win10 notification\obj\Release\net8.0-windows\move win10 notification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\void\source\repos\move win10 notification\move win10 notification\obj\Release\net8.0-windows\move win10 notification.AssemblyInfoInputs.cache
+C:\Users\void\source\repos\move win10 notification\move win10 notification\obj\Release\net8.0-windows\move win10 notification.AssemblyInfo.cs
+C:\Users\void\source\repos\move win10 notification\move win10 notification\obj\Release\net8.0-windows\move win10 notification.csproj.CoreCompileInputs.cache
+C:\Users\void\source\repos\move win10 notification\move win10 notification\obj\Release\net8.0-windows\move win10 notification.csproj.CopyComplete
+C:\Users\void\source\repos\move win10 notification\move win10 notification\obj\Release\net8.0-windows\move win10 notification.dll
+C:\Users\void\source\repos\move win10 notification\move win10 notification\obj\Release\net8.0-windows\refint\move win10 notification.dll
+C:\Users\void\source\repos\move win10 notification\move win10 notification\obj\Release\net8.0-windows\move win10 notification.pdb
+C:\Users\void\source\repos\move win10 notification\move win10 notification\obj\Release\net8.0-windows\move win10 notification.genruntimeconfig.cache
+C:\Users\void\source\repos\move win10 notification\move win10 notification\obj\Release\net8.0-windows\ref\move win10 notification.dll

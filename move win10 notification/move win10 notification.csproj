@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>move_win10_notification</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Platforms>AnyCPU;x64;x86</Platforms>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<Content Include="data\**">
+		<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="ini-parser" Version="2.5.2" />
+	  <PackageReference Include="MouseKeyHook" Version="5.7.1" />
+	</ItemGroup>
+
+</Project>
